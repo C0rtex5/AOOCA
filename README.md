@@ -1,2 +1,2 @@
-# AMT
-Addon Manipulator Tool
+# OCAAM
+Open Creative Apps Addon Manipulator 
