@@ -1,2 +1,2 @@
-# OCAAM
-Open Creative Apps Addon Manipulator 
+# AOOCA
+Addon Organizer for Open Creative Apps
